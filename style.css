@@ -1,0 +1,18 @@
+.interest{
+    color : rgb(15, 16, 16);
+    background-color: #bcbcbc;    
+    padding: 5px; 
+}
+
+.cpp{
+    color: rgb(255, 7, 230);
+    background-color: #13f9ea;
+    padding: 3px;      
+}
+
+h1{
+    color: rgb(240, 255, 27);
+    background-color: #ff0000;
+    margin: 10px, 20px;
+    padding: 20px;
+}
